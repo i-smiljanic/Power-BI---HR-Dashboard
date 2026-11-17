@@ -3,7 +3,7 @@
 A one-page Power BI dashboard that analyzes employee attrition: how many employees leave, in which departments, age groups and job roles, and how it relates to education, gender and job satisfaction. Education buttons filter the whole page.
 
 **Tools:** Power BI · DAX · Power Query
-**Data:** 1,470 employee records with 41 columns (`HR Data.xlsx`) – [TODO: add data source / link and confirm it is a sample or fictional dataset]
+**Data:** 1,470 employee records with 41 columns (`HR Data.xlsx`) 
 
 ## Business questions
 
@@ -16,9 +16,7 @@ A one-page Power BI dashboard that analyzes employee attrition: how many employe
 
 KPI cards (employees, attrition, attrition rate, active employees, average age), department attrition, employees by age group and gender, a job satisfaction matrix by job role, attrition by education field, and attrition by gender within each age group. The buttons at the top (High School, Associates, Bachelor's, Master's, Doctoral) filter every visual by education level.
 
-![Dashboard](images/01_dashboard.png)
-
-*The screenshot shows the Associates Degree filter (282 employees, 44 of them left). The key findings below use all 1,470 employees unless stated otherwise.*
+![Dashboard](01_dashboard.png)
 
 ## Key findings (all employees)
 
